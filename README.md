@@ -8,8 +8,14 @@ To make this work follow the below steps:
 4. Go into the terminal of your Operating System go into the directory where these files are located and compile with the help of the commands separately in different terminal windows:
    ```
    javac Server.java
-   
-     javac Client.java```
+   ```
+   ```   
+  javac Client.java
+   ```
 5. Now run the server and client in each terminal by entering these commands respectively:
-   ``java Server
-    java Client``
+   ``
+java Server
+``
+``
+java Client
+``
