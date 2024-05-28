@@ -15,9 +15,9 @@ To make this work follow the below steps:
    
 5. Now run the server and client in each terminal by entering these commands respectively:
 
-   ``
-java Server
-``
-``
-java Client
-``
+   ```
+   java Server
+  ```
+```
+    java Client
+```
