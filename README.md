@@ -6,8 +6,8 @@ To make this work follow the below steps:
 2. Go into pom.xml and ensure that you have all the necessary resources namely maven and java-jdk, showing you the Java version currently installed in your setup.
 3. Main function to be declared.
 4. Go into the terminal of your Operating System go into the directory where these files are located and compile with the help of the commands separately in different terminal windows:
-   ```javac Server.java```
-   ```javac Client.java```
+   ```javac Server.java
+     javac Client.java```
 5. Now run the server and client in each terminal by entering these commands respectively:
-   ``java Server``
-   ``java Client``
+   ``java Server
+    java Client``
