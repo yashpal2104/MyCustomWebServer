@@ -10,9 +10,11 @@ To make this work follow the below steps:
    javac Server.java
    ```
    ```   
-  javac Client.java
+   javac Client.java
    ```
+   
 5. Now run the server and client in each terminal by entering these commands respectively:
+
    ``
 java Server
 ``
